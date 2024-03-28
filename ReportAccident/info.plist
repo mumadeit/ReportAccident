@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LastAccessedDate</key>
+	<date>2024-03-31T18:29:09Z</date>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>LaunchScreenColor</string>
+		<key>UIImageName</key>
+		<string>LaunchScreenLogo</string>
+		<key>UILaunchScreen</key>
+		<dict/>
+	</dict>
+	<key>WorkspacePath</key>
+	<string>/Users/muayid/Desktop/Apps/ReportAccident/ReportAccident.xcodeproj</string>
+</dict>
+</plist>
